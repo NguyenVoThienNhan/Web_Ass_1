@@ -765,3 +765,14 @@ input{
 }
 
 /*  */
+
+/*"About us" page*/
+.member {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.personal_info {
+    padding: 0 2%;
+}
+/*  */
